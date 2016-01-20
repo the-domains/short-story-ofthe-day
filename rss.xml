@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Short Story Ofthe Day]]></title>
+        <description><![CDATA[Short Story Ofthe Day]]></description>
+        <link>https://thegrid.ai/short-story-ofthe-day/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jan 2016 05:02:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/short-story-ofthe-day/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ba642ee-f372-435f-817b-630671484c0e.jpg">]]></description>
+            <link>https://thegrid.ai/short-story-ofthe-day/a2a5e865-f04f-44d5-91fe-11ac5893cff6/index.html</link>
+            <guid isPermaLink="false">a2a5e865-f04f-44d5-91fe-11ac5893cff6</guid>
+            <pubDate>Wed, 20 Jan 2016 05:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fb1be18-ee7d-498f-85d2-9a28ef434256.jpg">]]></description>
+            <link>https://thegrid.ai/short-story-ofthe-day/6d8ddaaa-a06c-4630-bbd0-82a1a3e94fda/index.html</link>
+            <guid isPermaLink="false">6d8ddaaa-a06c-4630-bbd0-82a1a3e94fda</guid>
+            <pubDate>Wed, 20 Jan 2016 05:02:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
