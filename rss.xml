@@ -4,8 +4,22 @@
         <description><![CDATA[Non non-ficton]]></description>
         <link>http://shortstoryoftheday.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 23:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 23:35:45 GMT</lastBuildDate>
         <atom:link href="http://shortstoryoftheday.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53b32d46-c3fd-43b8-8660-439571ad4dad.jpg">]]></description>
+            <link>http://shortstoryoftheday.com/9f621f9a-97d8-462b-be5e-9730692c8c4f/index.html</link>
+            <guid isPermaLink="false">9f621f9a-97d8-462b-be5e-9730692c8c4f</guid>
+            <pubDate>Wed, 20 Jan 2016 23:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c0ceb71-c33e-48ea-be23-44293980e37f.jpg">]]></description>
+            <link>http://shortstoryoftheday.com/3cd96b1d-718f-48b5-ac54-534a7952fba3/index.html</link>
+            <guid isPermaLink="false">3cd96b1d-718f-48b5-ac54-534a7952fba3</guid>
+            <pubDate>Wed, 20 Jan 2016 23:35:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37a37b4c-2b34-4ad2-b806-0643ad4a6fdc.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>http://shortstoryoftheday.com/49d508af-1771-4032-9a34-e828dd32c68a/index.html</link>
             <guid isPermaLink="false">49d508af-1771-4032-9a34-e828dd32c68a</guid>
             <pubDate>Wed, 20 Jan 2016 06:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72711146-52bb-48d1-a979-1df9450fc17a.jpg">]]></description>
-            <link>http://shortstoryoftheday.com/91f3c7cc-cf13-458f-bb65-0976e6c0f318/index.html</link>
-            <guid isPermaLink="false">91f3c7cc-cf13-458f-bb65-0976e6c0f318</guid>
-            <pubDate>Wed, 20 Jan 2016 23:34:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SSOD Logo]]></title>
-            <description><![CDATA[<article><h1>SSOD Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5d31e76f8eff29cdfe055884fdcf1ff15203c5.png"></article>]]></description>
-            <link>http://shortstoryoftheday.com/ssod-logo/index.html</link>
-            <guid isPermaLink="false">a25a4278-2f38-4b66-939f-10f6f76c5eff</guid>
-            <pubDate>Wed, 20 Jan 2016 22:22:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
