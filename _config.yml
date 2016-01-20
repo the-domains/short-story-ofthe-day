@@ -1,14 +1,29 @@
+name: Short Story Ofthe Day
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.6703204
+title: Creative non-non-ficton
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-35277696-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4569983
-  brandStrength: 0.6197302
-  lightness: 0.05311973
   brandColors:
     - '#FFEAD8'
     - '#FFB430'
     - '#006FBD'
     - '#E85291'
     - '#A3BED9'
+  brandStrength: 0.6197302
+  lightness: 0.05311973
+  saturation: 0.4569983
   rhythmicContrast: 0.4907251
-typography_spectrum: 0.6703204
-name: Short Story Ofthe Day
+purpose: []
