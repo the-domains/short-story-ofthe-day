@@ -4,7 +4,7 @@
         <description><![CDATA[Short Story of the Day]]></description>
         <link>http://shortstoryoftheday.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 07:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 07:17:23 GMT</lastBuildDate>
         <atom:link href="http://shortstoryoftheday.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,13 +60,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d737de7-2832-4b0e-bb8f-7e04bd398d91.jpg">]]></description>
             <link>http://shortstoryoftheday.com/0d4ccd65-ff59-4e3f-b906-38df20759058/index.html</link>
             <guid isPermaLink="false">0d4ccd65-ff59-4e3f-b906-38df20759058</guid>
-            <pubDate>Wed, 20 Jan 2016 06:40:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc75b562-3049-4dc9-b93f-310628a0f315.jpg">]]></description>
-            <link>http://shortstoryoftheday.com/0f3605f5-3a3d-425d-bb7c-ab5b19025fef/index.html</link>
-            <guid isPermaLink="false">0f3605f5-3a3d-425d-bb7c-ab5b19025fef</guid>
             <pubDate>Wed, 20 Jan 2016 06:40:05 GMT</pubDate>
         </item>
     </channel>
