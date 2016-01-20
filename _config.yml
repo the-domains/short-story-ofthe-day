@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4569983
+  brandStrength: 0.6197302
+  lightness: 0.05311973
+  brandColors:
+    - '#FFEAD8'
+    - '#FFB430'
+    - '#006FBD'
+    - '#E85291'
+    - '#A3BED9'
+  rhythmicContrast: 0.4907251
+typography_spectrum: 0.6703204
+name: Short Story Ofthe Day
