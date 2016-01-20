@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0
-  rhythmicContrast: 1
+  lightness: 0.75
   brandColors:
     - '#ffe292'
     - '#4cf9f7'
     - '#011e2e'
     - '#fe4735'
     - '#f28b4f'
-  lightness: 0.75
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: UA-35277696-1
   facebook: null
-name: Short Story Ofthe Day
 favicon: null
+name: Short Story Ofthe Day
 opengraph:
   image: null
   type: null
