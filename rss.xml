@@ -4,15 +4,8 @@
         <description><![CDATA[Short Story of the Day]]></description>
         <link>http://shortstoryoftheday.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 06:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 06:42:36 GMT</lastBuildDate>
         <atom:link href="http://shortstoryoftheday.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cabdcca-7a0d-493f-a6f0-a34e777bb434.jpg">]]></description>
-            <link>http://shortstoryoftheday.com/614daec7-5eb4-470d-aa86-de2e953ba604/index.html</link>
-            <guid isPermaLink="false">614daec7-5eb4-470d-aa86-de2e953ba604</guid>
-            <pubDate>Wed, 20 Jan 2016 06:40:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ebd4ba-87f5-4c15-8a5f-a92f63e7ae85.jpg">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd482775-d541-4730-9dff-c0ab6ccbf530.jpg">]]></description>
             <link>http://shortstoryoftheday.com/48a4fdb6-7419-43f0-b641-3516456e1199/index.html</link>
             <guid isPermaLink="false">48a4fdb6-7419-43f0-b641-3516456e1199</guid>
+            <pubDate>Wed, 20 Jan 2016 06:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/282ad25a-d816-4ee1-a7e4-997e43609d4d.jpg">]]></description>
+            <link>http://shortstoryoftheday.com/9e74060f-98a1-44b5-9ddc-54a6d4b12a42/index.html</link>
+            <guid isPermaLink="false">9e74060f-98a1-44b5-9ddc-54a6d4b12a42</guid>
             <pubDate>Wed, 20 Jan 2016 06:40:04 GMT</pubDate>
         </item>
     </channel>
