@@ -4,7 +4,7 @@
         <description><![CDATA[Non non-ficton]]></description>
         <link>http://shortstoryoftheday.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 23:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 23:35:02 GMT</lastBuildDate>
         <atom:link href="http://shortstoryoftheday.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -63,17 +63,17 @@
             <pubDate>Wed, 20 Jan 2016 06:44:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72711146-52bb-48d1-a979-1df9450fc17a.jpg">]]></description>
-            <link>http://shortstoryoftheday.com/91f3c7cc-cf13-458f-bb65-0976e6c0f318/index.html</link>
-            <guid isPermaLink="false">91f3c7cc-cf13-458f-bb65-0976e6c0f318</guid>
-            <pubDate>Wed, 20 Jan 2016 23:34:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SSOD Logo]]></title>
             <description><![CDATA[<article><h1>SSOD Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5d31e76f8eff29cdfe055884fdcf1ff15203c5.png"></article>]]></description>
             <link>http://shortstoryoftheday.com/ssod-logo/index.html</link>
             <guid isPermaLink="false">a25a4278-2f38-4b66-939f-10f6f76c5eff</guid>
+            <pubDate>Wed, 20 Jan 2016 22:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The saddest cat lady]]></title>
+            <description><![CDATA[<article><h1>The saddest cat lady</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2155c3e93ec0bd419b163101f3c5004c0ef6ebf7.png"></article>]]></description>
+            <link>http://shortstoryoftheday.com/the-saddest-cat-lady/index.html</link>
+            <guid isPermaLink="false">5d57887c-810f-43f9-9445-e2b74b1d5b3b</guid>
             <pubDate>Wed, 20 Jan 2016 22:22:58 GMT</pubDate>
         </item>
     </channel>
