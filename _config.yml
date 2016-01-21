@@ -1,5 +1,8 @@
+name: Short Story Ofthe Day
+favicon: null
+layout_spectrum: 0.8253
+typography_spectrum: 0.6703204
 title: Non non-ficton
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-35277696-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 0.75
   brandColors:
     - '#ffe292'
     - '#4cf9f7'
     - '#011e2e'
     - '#fe4735'
     - '#f28b4f'
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 1
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-35277696-1
-  facebook: null
-favicon: null
-name: Short Story Ofthe Day
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6703204
-layout_spectrum: 1
+purpose: []
