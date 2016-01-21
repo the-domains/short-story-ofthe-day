@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:2e5c3b3d-76a1-4083-834b-190a69a07f9d'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-01-21T05:01:44.310Z'
+dateModified: '2016-01-21T05:01:42.590Z'
 author: []
-datePublished: '2016-01-20T22:22:58.192Z'
-publisher:
-  domain: ''
-  name: ''
 title: The saddest cat lady
-dateModified: '2016-01-20T09:22:44.754Z'
 sourcePath: _posts/2016-01-20-the-saddest-cat-lady.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: the-saddest-cat-lady/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
