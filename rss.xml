@@ -4,8 +4,15 @@
         <description><![CDATA[Accidental Quotes  & Stories with Friends, mostly Imaginary]]></description>
         <link>http://shortstoryoftheday.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 03:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 03:52:17 GMT</lastBuildDate>
         <atom:link href="http://shortstoryoftheday.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff23ba757a30a9f06964ea58b7b73500a265b121.jpg" alt="" title="">]]></description>
+            <link>http://shortstoryoftheday.com/49d508af-1771-4032-9a34-e828dd32c68a/index.html</link>
+            <guid isPermaLink="false">49d508af-1771-4032-9a34-e828dd32c68a</guid>
+            <pubDate>Thu, 21 Jan 2016 03:52:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SSOD Logo]]></title>
             <description><![CDATA[<article><h1>SSOD Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5d31e76f8eff29cdfe055884fdcf1ff15203c5.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://shortstoryoftheday.com/b4f31b88-a5dd-4078-a7ac-b5d0268f201f/index.html</link>
             <guid isPermaLink="false">b4f31b88-a5dd-4078-a7ac-b5d0268f201f</guid>
             <pubDate>Wed, 20 Jan 2016 23:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56e9eac9-2aff-4bda-96d2-8d4c0077de31.jpg">]]></description>
-            <link>http://shortstoryoftheday.com/930521e5-6e95-45d5-b7e9-cf8049ff41e0/index.html</link>
-            <guid isPermaLink="false">930521e5-6e95-45d5-b7e9-cf8049ff41e0</guid>
-            <pubDate>Wed, 20 Jan 2016 23:43:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
