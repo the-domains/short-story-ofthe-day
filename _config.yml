@@ -2,7 +2,7 @@ name: Short Story Ofthe Day
 favicon: null
 layout_spectrum: 0.8253
 typography_spectrum: 0.6703204
-title: 'Accidental Quotes  & Stories with Friends, mostly Imaginary.'
+title: 'Accidental Quotes  & Stories with Friends, mostly Imaginary'
 collections:
   - index:
       path: /
