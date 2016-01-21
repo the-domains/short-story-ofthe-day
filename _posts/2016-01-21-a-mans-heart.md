@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:71497aec-6f0d-4acd-90f8-131d0b4b6ac4'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-21T00:46:48.911Z'
-dateModified: '2016-01-21T00:43:36.542Z'
+datePublished: '2016-01-21T05:01:13.221Z'
+dateModified: '2016-01-21T05:01:10.242Z'
 author: []
 title: "A man's heart"
 sourcePath: _posts/2016-01-21-a-mans-heart.md
