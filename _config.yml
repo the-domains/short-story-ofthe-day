@@ -1,41 +1,41 @@
-name: Short Story Ofthe Day
-favicon: null
-layout_spectrum: 0.33833
-typography_spectrum: 0.6703204
 title: 'Accidental Quotes  & Stories with Friends, mostly Imaginary'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-35277696-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.25
+  brandStrength: 0
+  rhythmicContrast: 1
   brandColors:
     - '#ffe292'
     - '#4cf9f7'
     - '#011e2e'
     - '#fe4735'
     - '#f28b4f'
-  brandStrength: 0
   lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-35277696-1
+  facebook: null
+name: Short Story Ofthe Day
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6703204
+layout_spectrum: 0.8971332
