@@ -4,8 +4,15 @@
         <description><![CDATA[Accidental Quotes  & Stories with Friends, mostly Imaginary]]></description>
         <link>http://shortstoryoftheday.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 11:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 11:30:41 GMT</lastBuildDate>
         <atom:link href="http://shortstoryoftheday.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08ac734-0b39-4ea9-85c2-ed89c427e04d.jpg">]]></description>
+            <link>http://shortstoryoftheday.com/671dd383-b959-43b9-a215-f065aaafccbd/index.html</link>
+            <guid isPermaLink="false">671dd383-b959-43b9-a215-f065aaafccbd</guid>
+            <pubDate>Mon, 25 Jan 2016 11:30:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7918fec1-8f3a-40d8-9561-11c21f511872.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://shortstoryoftheday.com/0b884e23-f1a7-4561-84fc-9cbb36f9b363/index.html</link>
             <guid isPermaLink="false">0b884e23-f1a7-4561-84fc-9cbb36f9b363</guid>
             <pubDate>Wed, 20 Jan 2016 23:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d84dea98-4f23-405a-aa47-ebcb363c29bb.jpg">]]></description>
-            <link>http://shortstoryoftheday.com/3507f8b8-9c2d-48b3-a425-98c308f9cbf0/index.html</link>
-            <guid isPermaLink="false">3507f8b8-9c2d-48b3-a425-98c308f9cbf0</guid>
-            <pubDate>Mon, 25 Jan 2016 11:21:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
